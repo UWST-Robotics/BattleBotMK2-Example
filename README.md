@@ -8,7 +8,7 @@ Processer - Raspberry Pi Pico W
 
 Connection Type - Wifi UDP Packets are used to pass packets containing controller inputs
 
-# How To Set UP
+## How To Set UP
 - You will have to change some contents like the ip address and the pins
 - Go into "imports/secrets.py" and fill in the appropriate information "" and "", put in your wifi network's name and password respectivly
 - secrets.py is highly unsecure and is an obvious security risk, do not share your secrets.py file as it is unhashed and not encrypted in the slightest
