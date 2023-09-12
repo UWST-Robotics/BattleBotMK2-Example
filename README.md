@@ -10,7 +10,7 @@ Connection Type - Wifi UDP Packets are used to pass packets containing controlle
 
 ## How To Set UP
 - You will have to change some contents like the ip address and the pins
-- Go into "imports/secrets.py" and fill in the appropriate information "" and "", put in your wifi network's name and password respectivly
+- Go into "imports/secrets.py" and fill in the appropriate information "SSID" and "PASSWOR", put in your wifi network's name and password respectivly
 - secrets.py is highly unsecure and is an obvious security risk, do not share your secrets.py file as it is unhashed and not encrypted in the slightest
 - Put the contents of the bot directory into the root of the Raspberry Pi Pico
   
