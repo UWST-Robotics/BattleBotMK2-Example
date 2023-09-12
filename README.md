@@ -15,9 +15,13 @@ Connection Type - Wifi UDP Packets are used to pass packets containing controlle
 - Put the contents of the bot directory into the root of the Raspberry Pi Pico
   
 - Running "runner.py" should result in a solid green light on the Pi, if there is any blinking the error codes are as follows
+  
 0 - Solid Light, no errors
-1 -
-2 -
+  
+1 - Could not connect to network
+
+2 -Could not bind socket, OSError: [Errno 98] EADDRINUSE
+
 
 If any of these errors are found, reset the Pi though a power cycle or other reset method
 
