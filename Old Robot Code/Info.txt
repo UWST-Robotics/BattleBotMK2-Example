@@ -1,0 +1,7 @@
+This folder contains the code of the previous years bot, if you have any questions ask your build captain. Not going to go into as deep of detail. May or may not work, no idea.
+
+Language - Micropython
+
+Processer - Raspberry Pi Pico W
+
+Connection Type - BlueTooth UDP Packets are used to pass packets containing controller inputs
