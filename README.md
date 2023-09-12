@@ -30,5 +30,5 @@ If any of these errors are found, reset the Pi though a power cycle or other res
 
   
 
-Here is the wiring diagram for BattleBotMK2
+## Wiring diagram for BattleBotMK2
 
