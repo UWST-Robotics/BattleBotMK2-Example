@@ -32,3 +32,4 @@ If any of these errors are found, reset the Pi though a power cycle or other res
 
 ## Wiring diagram for BattleBotMK2
 
+![image](https://github.com/UWST-Robotics/BattleBotMK2-Example/assets/84477153/d078c2ed-3446-4408-8608-abccd532c0d0)
