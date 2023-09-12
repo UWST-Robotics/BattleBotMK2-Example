@@ -1,2 +1,2 @@
-SSID = "leaf"
-PASSWORD = "connectionTypeU56"
+SSID = ""
+PASSWORD = ""
